@@ -18,11 +18,11 @@ public class Student {
 
     //1:
     Student(String s){
-        this(); /*call Student()*/
+        this(); /*call Query_Builder()*/
     }
 
     //2:
     Student(String ss , int a){
-        this(s);    /*call Student(String s)*/
+        this(s);    /*call Query_Builder(String s)*/
     }
 }

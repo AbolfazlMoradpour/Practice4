@@ -5,6 +5,6 @@ public class Main {
 
         Student st1 = new Student();
 
-        System.out.println(st1);    /*print init block message and Student cons_method Address*/
+        System.out.println(st1);    /*print init block message and Query_Builder cons_method Address*/
     }
 }
